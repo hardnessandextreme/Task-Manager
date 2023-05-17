@@ -1,0 +1,2 @@
+taskcontrol.vistas.DAOTableroImpl$SesionUsuario
+taskcontrol.vistas.DAOTableroImpl

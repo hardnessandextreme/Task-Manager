@@ -1,0 +1,9 @@
+taskcontrol.vistas.TCRegistroUsuario$1
+taskcontrol.vistas.TCRegistroUsuario$4
+taskcontrol.vistas.TCRegistroUsuario$5
+taskcontrol.vistas.TCRegistroUsuario$2
+taskcontrol.vistas.TCRegistroUsuario$3
+taskcontrol.vistas.TCRegistroUsuario$8
+taskcontrol.vistas.TCRegistroUsuario$6
+taskcontrol.vistas.TCRegistroUsuario
+taskcontrol.vistas.TCRegistroUsuario$7
